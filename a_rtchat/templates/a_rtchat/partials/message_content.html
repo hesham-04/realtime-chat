@@ -1,0 +1,5 @@
+{% if message.message %}
+<span>{{ message.message }}</span>
+{% elif message.file %}
+<img class="max-w-72 min-w-8" src="{{ message.file.url }}">
+{% endif %}
