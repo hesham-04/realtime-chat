@@ -1,13 +1,17 @@
-#### Video Tutorial of this project
-https://youtu.be/SQ4A7Q6_md8
-<br><br>
+﻿<p>
+  <a href="https://exarth.com/">
+  <img src="https://exarth.com/static/exarth/theme/logo-red-1000.svg" height="150">
+  </a>
+</p>
+<hr>
+
+# Realtime-Chat
+### REDIS, DJANGO CHANNELS, HTMX
 
 #### Getting the files
 Download zip file or <br>
 Clone with git + remove git folder
-```
-git clone https://github.com/andyjud/django-starter.git . && rm -rf .git
-```
+
 <br><br><br>
 
 ## Setup
